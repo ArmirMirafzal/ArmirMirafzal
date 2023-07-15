@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-My name is Miradhamov Mirafzal [ Armir ]
+My name is Miradhamov Mirafzal     [ Armir ]
