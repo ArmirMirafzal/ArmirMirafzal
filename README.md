@@ -4,8 +4,7 @@
 -----------------------------------------------------------
 - 🔭 I’m currently working on **movies project with api**
 
-- 🌱 I’m currently learning ***react.js, redux, express.js***
-
+- 🌱 I’m currently learning ***react.js, redux, express.js, tailwind css***
 <p align="left">
 </p>
 
