@@ -1,8 +1,8 @@
-<h1 align="center">Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px"> ,       My name is Miradhamov Mirafzal { Armir }</h1>
+<h1 align="center">Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px"> ,       My name is Miradxamov Mirafzal { Armir }</h1>
 <h3 align="center">I'm web developer</h3>
 
 -----------------------------------------------------------
-- 🔭 I’m currently working on **movies project with api**
+- 🔭 I’m currently working on **Flix-TV project with api**
 
 - 🌱 I’m currently learning ***react.js, redux, express.js, tailwind css***
 <p align="left">
@@ -15,7 +15,7 @@
 <p align="left"> 
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code> -
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code> -
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>   -<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></code>
 
 
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>-
