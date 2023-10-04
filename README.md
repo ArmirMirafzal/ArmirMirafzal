@@ -2,7 +2,7 @@
 <h3 align="center">I'm web developer</h3>
 
 -----------------------------------------------------------
-- 🔭 I’m currently working on **Flix-TV project with api**
+- 🔭 I’m currently working on **GrowTask project with api**
 
 - 🌱 I’m currently learning ***react.js, redux, express.js, tailwind css***
 <p align="left">
